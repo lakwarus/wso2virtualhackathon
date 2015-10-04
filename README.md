@@ -1,1 +1,1 @@
-# wso2virtualhackathon
+Change createCluster.sh and run it.
